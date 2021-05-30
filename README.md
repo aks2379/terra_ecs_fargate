@@ -1,1 +1,3 @@
-# terra_ecs_fargate
+# Terraform ECS Fargate
+
+## Steps
